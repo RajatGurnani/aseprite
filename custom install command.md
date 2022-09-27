@@ -30,6 +30,6 @@ instructions taken from above, but a complete summary specifically for windows (
 
 
 cmake command for install
-'''
+```
 cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -DLAF_BACKEND=skia -DSKIA_DIR=D:\Downloads\Skia-Windows-Release-x64 -DSKIA_LIBRARY_DIR=D:\Downloads\Skia-Windows-Release-x64\out\Release-x64 -DSKIA_LIBRARY=D:\Downloads\Skia-Windows-Release-x64\out\Release-x64\skia.lib -G Ninja ..
-'''
+```
